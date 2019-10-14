@@ -161,10 +161,8 @@ li{
     
 }
 .for{
-    width: 414px;
-    height: 1px;
-    background-color: #7d7d7d;
-    margin-left:15px;
+    padding: 2px 5px;
+    line-height: 1.33;
     
 }
 .line2{
@@ -174,14 +172,9 @@ li{
     margin-left: 15px;
 }
 .email{
-    width: 197px;
-    height: 35px;
-    font-family: Arial;
-    font-size: 12px;
-    line-height: 21px;
-    text-align: left;
-    color: #7d7d7d;
-    margin:15px 232px 15px 15px;
+    margin-top: 8px;
+    margin-left: 5px;
+    line-height: 1;
 }
 
 .footer{
